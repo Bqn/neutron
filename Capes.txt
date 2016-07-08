@@ -1,0 +1,4 @@
+{
+  "LostBans": "https://raw.githubusercontent.com/Bqn/neutron/master/Lost.png",
+  "ILostScore": "https://raw.githubusercontent.com/Bqn/neutron/master/Lost.png"
+}
